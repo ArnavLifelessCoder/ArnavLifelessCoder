@@ -24,7 +24,7 @@ Building production-grade AI systems, semantic search infrastructure, computer v
 
 <p align="center">
   <img src="https://img.shields.io/badge/IIT%20Kharagpur-M.Tech%20Dual%20Degree-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Codeforces-Pupil-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Codeforces-Pupil-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Open%20to-AI%20%7C%20ML%20%7C%20Backend-success?style=for-the-badge"/>
 </p>
 
