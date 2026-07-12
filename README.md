@@ -2,17 +2,38 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Arnav+Gawade;Full+Stack+%2B+ML+%2B+Data+Systems;Building+search%2C+vision%2C+finance%2C+and+LLM+stuff" alt="Typing SVG" />
 </p>
 
+<h3 align="center">
+Machine Learning Engineer • Full Stack Developer • AI Research Enthusiast
+</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavLifelessCoder&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavLifelessCoder&layout=compact&theme=github_dark&hide_border=true" height="180" />
+Building production-grade AI systems, semantic search infrastructure, computer vision pipelines, scalable backend applications and intelligent developer tools.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArnavLifelessCoder&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <a href="mailto:arnavgawde1028@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ArnavLifelessCoder">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arnav-gawade-5b2129364/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ArnavLifelessCoder&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IIT%20Kharagpur-B.S.%20Chemistry%20%7C%20M.Tech%20Dual%20Degree-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Codeforces-Specialist-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-AI%20%7C%20ML%20%7C%20Backend-success?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArnavLifelessCoder&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArnavLifelessCoder&style=for-the-badge"/>
 </p>
 
 ---
