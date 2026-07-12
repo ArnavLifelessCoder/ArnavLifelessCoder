@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArnavLifelessCoder&theme=github_dark" alt="Profile Summary" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArnavLifelessCoder&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavLifelessCoder&layout=compact&theme=github_dark&hide_border=true" height="180" />
 </p>
@@ -16,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArnavLifelessCoder&theme=onedark&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=ArnavLifelessCoder&style=for-the-badge" />
 </p>
 
 ---
@@ -40,22 +36,196 @@ I like shipping real stuff, not toy notebooks. Search systems, retrieval pipelin
 - Finance and market-related projects
 - Browser extensions and developer tooling
 
+---
+
+## Education
+
+**Indian Institute of Technology Kharagpur**
+
+B.S. (Hons.) in Chemistry  
+M.Tech Dual Degree in Financial Engineering & Double Major in Industrial Engineering
+
+2024 - 2029
+
+---
+
+## Experience
+
+### AI-ML Intern | Acadza Technologies Pvt. Ltd.
+**Apr 2026 - Jul 2026**
+
+- Built production semantic search infrastructure using MiniLM, BM25 and Reciprocal Rank Fusion.
+- Developed scalable PDF generation pipelines and optimized production OMR systems.
+- Migrated backend services from Python to Node.js while improving search performance.
+
+### Machine Learning Intern | Chi SquareX
+**Nov 2025 - Dec 2025**
+
+- Fine tuned Vision Transformer and YOLO based segmentation models.
+- Worked on dental X-ray segmentation under severe class imbalance.
+- Improved training through mixed precision, augmentation and optimized scheduling.
+
+---
+
 ## Skills
 
-### Languages
-`Python` `JavaScript` `TypeScript` `SQL` `HTML` `CSS` `C++`
+### Programming Languages
 
-### Data and ML
-`Pandas` `NumPy` `Scikit-learn` `PyTorch` `TensorFlow` `XGBoost` `LightGBM` `Transformers` `OpenCV`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css" />
+</p>
 
-### Full stack
-`React` `Next.js` `Node.js` `Express` `REST APIs` `MongoDB` `PostgreSQL` `Tailwind CSS`
+`SQL`
 
-### Systems and tools
-`Git` `GitHub` `Docker` `Linux` `Jupyter` `FastAPI` `VS Code`
+---
 
-### What I actually care about
-`Search` `RAG-free retrieval` `Ranking` `Vision pipelines` `Production-ready code` `Readable architecture`
+### AI, Machine Learning & Deep Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+**Frameworks & Libraries**
+
+`PyTorch` • `TensorFlow` • `Scikit-learn` • `Transformers` • `OpenCV` • `Keras` • `Hugging Face` • `XGBoost` • `LightGBM`
+
+**Models & Architectures**
+
+`BERT` • `SBERT` • `MiniLM` • `Vision Transformers (ViT)` • `SegFormer` • `YOLOv11` • `Attention U-Net` • `TransUNet`
+
+---
+
+### LLM Engineering & AI Systems
+
+`LangChain` • `LangGraph` • `Prompt Engineering` • `Agentic AI` • `Semantic Search` • `Hybrid Retrieval` • `Vector Search`
+
+`BM25` • `Reciprocal Rank Fusion (RRF)` • `Embeddings` • `Cross-Encoder Re-ranking` • `ONNX Runtime`
+
+---
+
+### Data Science & Analytics
+
+**Libraries**
+
+`NumPy` • `Pandas` • `SciPy` • `Statsmodels` • `Matplotlib` • `Seaborn` • `Plotly` • `NetworkX`
+
+**Techniques**
+
+`Exploratory Data Analysis` • `Feature Engineering` • `Statistical Analysis` • `Hypothesis Testing`
+
+`Regression` • `Classification` • `Clustering` • `Time Series Forecasting` • `Probability & Statistics`
+
+---
+
+### Computer Vision
+
+`Image Segmentation` • `Object Detection` • `Image Processing`
+
+`OCR` • `Classical Computer Vision` • `Feature Extraction`
+
+---
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+`Responsive UI` • `Component Architecture`
+
+---
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+`REST APIs` • `WebSockets` • `Socket.IO`
+
+`Authentication` • `Async Programming` • `Caching`
+
+---
+
+### Databases & Storage
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite" />
+</p>
+
+`Qdrant` • `IndexedDB` • `Vector Databases`
+
+---
+
+### DevOps, Cloud & MLOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws" />
+</p>
+
+`GitHub Actions` • `MLflow`
+
+`Google Colab` • `Kaggle`
+
+---
+
+### Data Engineering
+
+`ETL Pipelines` • `Streaming Pipelines`
+
+`Concurrent Processing` • `Caching`
+
+`Web Scraping` • `BeautifulSoup`
+
+---
+
+### Research Interests
+
+`Mechanistic Interpretability`
+
+`Representation Engineering`
+
+`Activation Steering`
+
+`Large Language Models`
+
+`Retrieval Systems`
+
+`Computer Vision`
+
+`AI Systems`
+
+`Multimodal Learning`
+
+---
+
+### Core Computer Science
+
+`Data Structures & Algorithms`
+
+`Object-Oriented Programming`
+
+`Operating Systems`
+
+`Computer Networks`
+
+`Database Management Systems`
+
+`Software Engineering`
+
+`Probability`
+
+`Statistical Inference`
+
+---
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,postman,figma" />
+</p>
+
+`Jupyter Notebook` • `GitHub Desktop` • `AWS` • `Google Cloud` • `Azure`
 
 ---
 
@@ -91,7 +261,18 @@ I like shipping real stuff, not toy notebooks. Search systems, retrieval pipelin
 - `Semantic-Memory-Extension`
 
 Some repos are private as they're under work or intern related.
+
 ---
+
+## Research Interests
+
+- Representation Engineering
+- Mechanistic Interpretability
+- Activation Steering
+- Retrieval Systems
+- Large Language Models
+- Computer Vision
+- ML Systems
 
 ## Repo vibes
 
@@ -105,6 +286,16 @@ This account mixes:
 - browser tooling
 - finance and analytics
 - real implementation over fake polish
+
+---
+
+## Achievements
+
+- Codeforces Specialist (1300+)
+- Solved 400+ DSA problems
+- National Finalist, McKinsey Consularium
+- JEE Main Top 0.9%
+- JEE Advanced Top 6.7%
 
 ---
 
@@ -130,8 +321,21 @@ This account mixes:
 
 ---
 
+## Certifications
+
+- Stanford University Machine Learning Specialization
+- DeepLearning.AI Neural Networks and Deep Learning
+
+---
+
 ## Contact
 
-- GitHub: `@ArnavLifelessCoder`
-- Email: arnavgawde1028@gmail.com | arnavgawde2810@gmail.com
-- Open to collabs on ML, data, search, and full stack engineering
+- GitHub: **@ArnavLifelessCoder**
+- Email: **arnavgawde1028@gmail.com**
+- Alternate: **arnavgawde2810@gmail.com**
+
+Open to collaborations in AI, Machine Learning, Data Engineering, Search Systems and Full Stack Development.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ArnavLifelessCoder/ArnavLifelessCoder/output/github-contribution-grid-snake-dark.svg" />
+</p>
