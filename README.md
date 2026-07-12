@@ -72,7 +72,7 @@ M.Tech Dual Degree in Financial Engineering & Double Major in Industrial Enginee
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,postgres,sqlite" />
 </p>
 
 `SQL`
