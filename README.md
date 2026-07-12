@@ -356,5 +356,6 @@ This account mixes:
 Open to collaborations in AI, Machine Learning, Data Engineering, Search Systems and Full Stack Development.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ArnavLifelessCoder/ArnavLifelessCoder/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Snake animation"
+       src="https://raw.githubusercontent.com/ArnavLifelessCoder/ArnavLifelessCoder/output/github-contribution-grid-snake-dark.svg">
 </p>
