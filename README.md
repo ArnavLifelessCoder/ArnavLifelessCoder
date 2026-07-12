@@ -96,8 +96,6 @@ M.Tech Dual Degree in Financial Engineering & Double Major in Industrial Enginee
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,postgres,sqlite" />
 </p>
 
-`SQL`
-
 ---
 
 ### AI, Machine Learning & Deep Learning
